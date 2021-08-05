@@ -1,0 +1,2 @@
+(this["webpackJsonpgogo-react"]=this["webpackJsonpgogo-react"]||[]).push([[10],{363:function(t,e,n){"use strict";n.r(e);var a=n(73),c=n(74),r=n(76),o=n(75),u=n(77),i=n(5),p=n.n(i),s=n(149),b=function(t){function e(){return Object(a.a)(this,e),Object(r.a)(this,Object(o.a)(e).apply(this,arguments))}return Object(u.a)(e,t),Object(c.a)(e,[{key:"render",value:function(){return p.a.createElement(s.a,{to:"/app"})}}]),e}(i.Component);e.default=b}}]);
+//# sourceMappingURL=views.294154cc.chunk.js.map
